@@ -20,6 +20,7 @@ YuyukoMod 是 [杀戮尖塔（SlayTheSpire）](https://store.steampowered.com/ap
 
 ### 感谢
 
+- Kristall Wang https://github.com/Kristall-WangShiwei 帮助改进英文翻译
 - 一下午(OPM) Tencent QQ: 1315659893 隔壁骚灵Mod的策划、程序
 - 墨千(BlackRuse) https://github.com/lionpkqq 隔壁咲夜Mod的策划、程序
 - HOYKJ https://github.com/HOYKJ 隔壁觉Mod的策划、程序
@@ -34,15 +35,15 @@ YuyukoMod 是 [杀戮尖塔（SlayTheSpire）](https://store.steampowered.com/ap
 
 ### Profile
 
-YuyukoMod is a mod of [SlayTheSpire](https://store.steampowered.com/app/646570/Slay_the_Spire/) .
+YuyukoMod is a mod for [SlayTheSpire](https://store.steampowered.com/app/646570/Slay_the_Spire/).
 
-YuyukoMod add Yuyuko , a character of Touhou Project , to SlayTheSpire
+Adds Yuyuko from Touhou Project to Slay the Spire as a playable character.
 
-### Useage 
+### Usage 
 
-1. Follow [ModTheSpire](https://github.com/kiooeht/ModTheSpire#usage) to install `ModTheSpire`
-2. Download [BaseMod](https://github.com/daviscook477/BaseMod/releases) and [YuyukoMod](https://github.com/gogo81745/YuyukoMod/releases) and put `.jar` into `mods` directory
-3. Launch `MTS.cmd` or `MTS.sh` , check `BaseMod` and `YuyukoMod`
+1. Follow [ModTheSpire](https://github.com/kiooeht/ModTheSpire#usage) to install `ModTheSpire`.
+2. Download [BaseMod](https://github.com/daviscook477/BaseMod/releases) and [YuyukoMod](https://github.com/gogo81745/YuyukoMod/releases) and put the `.jar` files into the `mods` directory.
+3. Launch `MTS.cmd` or `MTS.sh` , check `BaseMod` and `YuyukoMod`.
 
 ### Designer
 
@@ -50,6 +51,7 @@ RuoRan(若然) https://github.com/fengruoshuiran Designer of YuyukoMod
 
 ### Thanks
 
+- Kristall Wang https://github.com/Kristall-WangShiwei help to improve English translation
 - OPM(一下午) Tencent QQ: 1315659893 Designer and Programmer of Poltergeist Mod
 - BlackRuse(墨千) https://github.com/lionpkqq Designer and Programmer of Sakuya Mod
 - HOYKJ https://github.com/HOYKJ Designer and Programmer of Komeiji Mod

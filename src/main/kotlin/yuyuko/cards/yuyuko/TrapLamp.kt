@@ -64,7 +64,6 @@ class TrapLamp : CustomCard(
         )
 
         val card = makeStatEquivalentCopy() as TrapLamp
-        card.upgradeMagicNumber(1)
 
         AbstractDungeon.actionManager.addToBottom(
                 ApplyPowerAction(
